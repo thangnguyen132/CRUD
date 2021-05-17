@@ -1,3 +1,5 @@
+//Nhi da sua
+
 // Xu ly Time
 var myVar = setInterval(myTimer);
 var d;
